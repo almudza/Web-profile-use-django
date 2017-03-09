@@ -1,0 +1,468 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"nO",
+				"None\tinstance"
+			],
+			[
+				"conf",
+				"confirm_message"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"f",
+				"False"
+			],
+			[
+				"Post",
+				"PostAdmin"
+			],
+			[
+				"Ha",
+				"HandleFunc\t ƒ"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/profiles/views.py",
+			"settings":
+			{
+				"buffer_size": 469,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/profiles/templates/profile.html",
+			"settings":
+			{
+				"buffer_size": 102,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/zifza/urls.py",
+			"settings":
+			{
+				"buffer_size": 1402,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/profiles/templates/home.html",
+			"settings":
+			{
+				"buffer_size": 2860,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/profiles/templates/navbar.html",
+			"settings":
+			{
+				"buffer_size": 2241,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 72.0,
+		"last_filter": "disable",
+		"selected_items":
+		[
+			[
+				"disable",
+				"Anaconda: Disable linting on this file"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 440.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/mudza/Documents/pythonproject/ecommerce",
+		"/home/mudza/Documents/pythonproject/ecommerce/src",
+		"/home/mudza/Documents/pythonproject/ecommerce/src/profiles",
+		"/home/mudza/Documents/pythonproject/ecommerce/src/profiles/templates",
+		"/home/mudza/Documents/pythonproject/ecommerce/src/profiles/templates/account",
+		"/home/mudza/Documents/pythonproject/ecommerce/src/zifza",
+		"/home/mudza/Documents/pythonproject/ecommerce/static",
+		"/home/mudza/Documents/pythonproject/ecommerce/static/static",
+		"/home/mudza/Documents/pythonproject/ecommerce/static/static/img"
+	],
+	"file_history":
+	[
+		"/home/mudza/Documents/pythonproject/ecommerce/src/profiles/templates/navbar.html",
+		"/home/mudza/Documents/pythonproject/ecommerce/src/zifza/settings.py",
+		"/home/mudza/Documents/pythonproject/ecommerce/src/profiles/templates/account/signup.html",
+		"/home/mudza/Documents/pythonproject/ecommerce/src/profiles/templates/account/logout.html",
+		"/home/mudza/Documents/pythonproject/ecommerce/src/zifza/urls.py",
+		"/home/mudza/Documents/pythonproject/ecommerce/src/contact/templates/contact.html",
+		"/home/mudza/Documents/pythonproject/ecommerce/src/profiles/templates/account/login.html",
+		"/home/mudza/Documents/pythonproject/ecommerce/src/contact/views.py",
+		"/home/mudza/Documents/pythonproject/ecommerce/src/profiles/templates/home.html",
+		"/home/mudza/Documents/pythonproject/ecommerce/src/profiles/templates/base.html",
+		"/home/mudza/Documents/pythonproject/ecommerce/src/profiles/views.py",
+		"/home/mudza/Documents/pythonproject/ecommerce/src/profiles/templates/about.html",
+		"/home/mudza/Documents/go/src/coba/user/regex/regex.go",
+		"/home/mudza/Documents/pythonproject/ecommerce/static/static/css/main.css",
+		"/home/mudza/Documents/pythonproject/ecommerce/src/profiles/admin.py",
+		"/home/mudza/Documents/pythonproject/ecommerce/src/profiles/models.py",
+		"/home/mudza/Documents/django/src/blog/crud.md",
+		"/run/media/mudza/DATA/Videos/Tutorial/Python/Web django/blog 1 django 1.9 /blog/src/cobadjango19/urls.py",
+		"/home/mudza/Documents/django/src/blog/settings.py",
+		"/run/media/mudza/DATA/Videos/Tutorial/Python/Web django/blog 1 django 1.9 /blog/src/posts/views.py",
+		"/home/mudza/Documents/django/src/urls.py",
+		"/home/mudza/Documents/django/src/posts/admin.py",
+		"/run/media/mudza/DATA/Videos/Tutorial/Python/Web django/blog 1 django 1.9 /blog/src/posts/urls.py",
+		"/home/mudza/Documents/django/src/posts/models.py",
+		"/home/mudza/Documents/django/src/crud.md",
+		"/home/mudza/Documents/cms/wag/src/search/views.py",
+		"/home/mudza/Documents/go/src/coba/user/hello/hello.go",
+		"/home/mudza/Documents/go/src/belajar/elseif.go",
+		"/home/mudza/Documents/go/src/coba/user/stringutils/reverse.go",
+		"/home/mudza/Documents/go/src/belajar/web.go",
+		"/home/mudza/Documents/go/src/goc/main.go",
+		"/home/mudza/Documents/go/src/github.com/astaxie/beego/mime.go",
+		"/home/mudza/Documents/go/src/goc/db/migrations/migration.go",
+		"/home/mudza/Documents/go/src/goc/db/migrations/enterprise_migration.go",
+		"/home/mudza/Documents/django/blog/blog/settings.py",
+		"/home/mudza/Documents/django/blog/blog/urls.py",
+		"/home/mudza/Documents/go/src/belajar/nestedif.go",
+		"/home/mudza/Documents/go/src/belajar/switch.go",
+		"/home/mudza/Documents/go/src/belajar/scope.go",
+		"/home/mudza/Documents/go/src/belajar/booleans.go",
+		"/home/mudza/Documents/go/src/belajar/hello.go",
+		"/home/mudza/.config/sublime-text-3/Packages/User/GoSublime.sublime-settings",
+		"/home/mudza/.config/sublime-text-3/Packages/GoSublime/USAGE.md",
+		"/home/mudza/Documents/go/src/belajar-golang/hello.go",
+		"/home/mudza/Documents/go/src/main.go",
+		"/home/mudza/.config/sublime-text-3/Packages/GoSublime/CHANGELOG.md"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"b",
+			"lastname"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/profiles/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 469,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								242,
+								242
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.go"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/profiles/templates/profile.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 102,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								47,
+								47
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/zifza/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1402,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1223,
+								1223
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 126.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/profiles/templates/home.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2860,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								26,
+								26
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/profiles/templates/navbar.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2241,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								568,
+								568
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.MarGo-output":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "ecom.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 149.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
